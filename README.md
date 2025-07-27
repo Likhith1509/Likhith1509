@@ -14,8 +14,6 @@
 ### 🛠️ Tools & Platforms  
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40"/>
 
-
-
 ---
 
 ## 🌱 Currently Learning
@@ -23,17 +21,6 @@
 - Advanced web development (React, Node.js)
 - Data Structures and Algorithms
 - Real-world project building and deployment
-
----
-
-## 📁 Projects
-
-Here are a few things I'm working on or have built:
-
-- 🚀 *[Project Name]* – [Short description or link to repo]  
-- 💡 *[Project Name]* – [Short description or link to repo]
-
-> *(Add links once your repositories are ready)*
 
 ---
 
