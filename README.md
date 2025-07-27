@@ -2,12 +2,14 @@
 
 <p align="center">🎓 Final Year BE Student | 💻 Aspiring Software Developer  </p>
 
+---
+
 🧑‍💻 About Me
-🎓 I'm an Information Science Engineering student with a strong passion for technology, learning, and problem-solving.
-🧠 I love diving into complex challenges and turning ideas into digital solutions.
-💡 I enjoy combining logic, creativity, and code to build meaningful projects.
-💻 Proficient in C++, Core Java, Python, HTML, CSS, and JavaScript — always striving to write clean and efficient code.
-📚 Always curious, always learning — be it Data Structures, real-world web development.
+🎓 I'm an Information Science Engineering student with a strong passion for technology, learning, and problem-solving.<br>
+🧠 I love diving into complex challenges and turning ideas into digital solutions.<br>
+💡 I enjoy combining logic, creativity, and code to build meaningful projects.<br>
+💻 Proficient in C++, Core Java, Python, HTML, CSS, and JavaScript — always striving to write clean and efficient code.<br>
+📚 Always curious, always learning — be it Data Structures, real-world web development.<br>
 
 ---
 
