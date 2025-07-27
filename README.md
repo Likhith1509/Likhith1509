@@ -26,9 +26,9 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your.email@example.com] *(Replace with your actual email)*  
-- 🌐 LinkedIn: [Your LinkedIn Profile URL]  
-- 🐙 GitHub: [github.com/yourusername]
+- 📧 Email: [likhithbo991@gmain.com] 
+- 🌐 LinkedIn: [https://www.linkedin.com/in/likhith1509/]  
+- 🐙 GitHub: [https://github.com/Likhith1509]
 
 ---
 
